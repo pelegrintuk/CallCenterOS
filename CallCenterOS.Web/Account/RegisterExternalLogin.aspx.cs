@@ -4,7 +4,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Owin;
-using CallCenterOS.Web.Models;
+using CallCenterOS.CORE;
 
 namespace CallCenterOS.Web.Account
 {

@@ -114,3 +114,12 @@ C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.Web\obj\Debug\
 C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.Web\obj\Debug\CallCenterOS.Web.csproj.CoreCompileInputs.cache
 C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.Web\obj\Debug\CallCenterOS.Web.dll
 C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.Web\obj\Debug\CallCenterOS.Web.pdb
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.Web\bin\CallCenterOS.Aplication.dll
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.Web\bin\CallCenterOS.CORE.dll
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.Web\bin\CallCenterOS.DAL.dll
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.Web\bin\CallCenterOS.Aplication.pdb
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.Web\bin\CallCenterOS.CORE.pdb
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.Web\bin\CallCenterOS.DAL.pdb
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.Web\bin\CallCenterOS.Aplication.dll.config
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.Web\bin\CallCenterOS.CORE.dll.config
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.Web\bin\CallCenterOS.DAL.dll.config

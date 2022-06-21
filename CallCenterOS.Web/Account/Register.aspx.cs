@@ -5,7 +5,7 @@ using System.Web.UI;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Owin;
-using CallCenterOS.Web.Models;
+using CallCenterOS.CORE;
 
 namespace CallCenterOS.Web.Account
 {
