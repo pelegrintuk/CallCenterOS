@@ -1,0 +1,10 @@
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.CORE\bin\Debug\netcoreapp3.1\CallCenterOS.CORE.deps.json
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.CORE\bin\Debug\netcoreapp3.1\CallCenterOS.CORE.dll
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.CORE\bin\Debug\netcoreapp3.1\CallCenterOS.CORE.pdb
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.CORE\obj\Debug\netcoreapp3.1\CallCenterOS.CORE.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.CORE\obj\Debug\netcoreapp3.1\CallCenterOS.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.CORE\obj\Debug\netcoreapp3.1\CallCenterOS.CORE.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.CORE\obj\Debug\netcoreapp3.1\CallCenterOS.CORE.AssemblyInfo.cs
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.CORE\obj\Debug\netcoreapp3.1\CallCenterOS.CORE.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.CORE\obj\Debug\netcoreapp3.1\CallCenterOS.CORE.dll
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.CORE\obj\Debug\netcoreapp3.1\CallCenterOS.CORE.pdb

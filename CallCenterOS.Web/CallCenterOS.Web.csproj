@@ -376,6 +376,16 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CallCenterOS.Aplication\CallCenterOS.Aplication.csproj">
+      <Project>{8270691e-bb8f-4135-bb2e-94d38f630403}</Project>
+      <Name>CallCenterOS.Aplication</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CallCenterOS.CORE\CallCenterOS.CORE.csproj">
+      <Project>{109b1705-880f-40b7-92b4-d367a4f44e63}</Project>
+      <Name>CallCenterOS.CORE</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

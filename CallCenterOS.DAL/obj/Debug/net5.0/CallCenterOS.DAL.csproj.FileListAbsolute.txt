@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.DAL\bin\Debug\net5.0\CallCenterOS.DAL.deps.json
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.DAL\bin\Debug\net5.0\CallCenterOS.DAL.dll
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.DAL\bin\Debug\net5.0\ref\CallCenterOS.DAL.dll
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.DAL\bin\Debug\net5.0\CallCenterOS.DAL.pdb
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.DAL\bin\Debug\net5.0\CallCenterOS.CORE.dll
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.DAL\bin\Debug\net5.0\CallCenterOS.CORE.pdb
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.DAL\obj\Debug\net5.0\CallCenterOS.DAL.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.DAL\obj\Debug\net5.0\CallCenterOS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.DAL\obj\Debug\net5.0\CallCenterOS.DAL.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.DAL\obj\Debug\net5.0\CallCenterOS.DAL.AssemblyInfo.cs
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.DAL\obj\Debug\net5.0\CallCenterOS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.DAL\obj\Debug\net5.0\CallCenterOS.DAL.csproj.CopyComplete
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.DAL\obj\Debug\net5.0\CallCenterOS.DAL.dll
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.DAL\obj\Debug\net5.0\ref\CallCenterOS.DAL.dll
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.DAL\obj\Debug\net5.0\CallCenterOS.DAL.pdb
