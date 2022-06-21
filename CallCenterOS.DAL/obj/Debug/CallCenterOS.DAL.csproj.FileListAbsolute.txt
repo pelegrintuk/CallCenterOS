@@ -20,3 +20,4 @@ C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.DAL\bin\Debug\
 C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.DAL\bin\Debug\es\EntityFramework.SqlServer.resources.dll
 C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.DAL\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
 C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.DAL\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.DAL\obj\Debug\CallCenterOS.DAL.csproj.CopyComplete

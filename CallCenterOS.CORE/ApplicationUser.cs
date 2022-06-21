@@ -9,6 +9,9 @@ using System.Threading.Tasks;
 
 namespace CallCenterOS.CORE
 {
+    /// <summary>
+    /// Entidad de dominio de usuario
+    /// </summary>
     public class ApplicationUser : IdentityUser
     {
         public ClaimsIdentity GenerateUserIdentity(UserManager<ApplicationUser> manager)

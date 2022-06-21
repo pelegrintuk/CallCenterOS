@@ -123,3 +123,4 @@ C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.Web\bin\CallCe
 C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.Web\bin\CallCenterOS.Aplication.dll.config
 C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.Web\bin\CallCenterOS.CORE.dll.config
 C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.Web\bin\CallCenterOS.DAL.dll.config
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.Web\obj\Debug\CallCenterOS.Web.csproj.CopyComplete

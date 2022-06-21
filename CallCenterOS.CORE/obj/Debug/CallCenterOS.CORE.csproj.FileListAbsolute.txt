@@ -16,4 +16,4 @@ C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.CORE\bin\Debug
 C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.CORE\bin\Debug\es\EntityFramework.SqlServer.resources.dll
 C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.CORE\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
 C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.CORE\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
-C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.CORE\obj\Debug\CallCenterOS.CORE.csproj.CopyComplete
+C:\Users\david\source\repos\pelegrintuk\CallCenterOS\CallCenterOS.CORE\obj\Debug\CallCenterOS.CORE.csproj.AssemblyReference.cache
