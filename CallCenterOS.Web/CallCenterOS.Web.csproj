@@ -167,6 +167,7 @@
     <Content Include="Account\TwoFactorAuthenticationSignIn.aspx" />
     <Content Include="Account\VerifyPhoneNumber.aspx" />
     <Content Include="Client\IncidenceCreate.aspx" />
+    <Content Include="Client\IncidenceEdit.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -344,6 +345,13 @@
     </Compile>
     <Compile Include="Client\IncidenceCreate.aspx.designer.cs">
       <DependentUpon>IncidenceCreate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Client\IncidenceEdit.aspx.cs">
+      <DependentUpon>IncidenceEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Client\IncidenceEdit.aspx.designer.cs">
+      <DependentUpon>IncidenceEdit.aspx</DependentUpon>
     </Compile>
     <Compile Include="Contact.aspx.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
