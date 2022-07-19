@@ -18,7 +18,7 @@ namespace CallCenterOS.Web.Client
         {
             ApplicationDbContext context = new ApplicationDbContext();
             incidenceManager = new IncidenceManager(context);
-            int id = 1;
+            int id = 0;
             if(Request.QueryString["id"]!=null)
             {
                 if(int.TryParse(Request.QueryString["id"],out id))
